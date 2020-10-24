@@ -26,3 +26,6 @@ https://espare.tk/live/space_lat.m3u8?token=ou7tuGVArtuILTQzJ7nhvg&expires=16035
 
 #EXTINF:-1 tvg-logo="",HBO XTREME
 https://espare.tk/live/hbo_xtreme_lat.m3u8?token=ApmSzrdfV_YzWof6zmaE3Q&expires=1603594999
+
+#EXTINF:-1 tvg-logo="",BOOMERANG
+https://espare.tk/live/boomerang_lat.m3u8?token=UpIcal6atSxT2spAEus72A&expires=1603595193
