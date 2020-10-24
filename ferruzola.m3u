@@ -64,7 +64,29 @@ https://espare.tk/live/fxm_lat.m3u8?token=pRbjjYHuU3_2IUK9LhXo1g&expires=1603597
 #EXTINF:-1 tvg-logo="",UNIVERSAL CHANNEL
 https://espare.tk/live/universal_lat.m3u8?token=_ls6u4Cy6NAZz1P8Srl5jQ&expires=1603597906
 
+#EXTINF:-1 tvg-logo="",A&E
+https://espare.tk/live/aye_lat.m3u8?token=x5RMh5gf5EJHxdGL7Hb8yQ&expires=1603598100
 
+#EXTINF:-1 tvg-logo="",NATIONAL GEOGRAPHIC
+https://espare.tk/live/nat_geographic_lat.m3u8?token=0xQHsOMKb6lheej_GFwl-Q&expires=1603598529
+
+#EXTINF:-1 tvg-logo="",NAT GEO
+https://espare.tk/live/nat_geo_wild_lat.m3u8?token=wBXRc85SyrKhHOF9PqzJ_w&expires=1603598600
+
+#EXTINF:-1 tvg-logo="",DISCOVERY CHANNEL
+https://espare.tk/live/discovery_channel.m3u8?token=MIKxtppcczXh5rqCb8lQfQ&expires=1603598637
+
+#EXTINF:-1 tvg-logo="",ANIMAL PLANET
+https://espare.tk/live/animal_planet_lat.m3u8?token=f0E4YnZAruFFqnkXCAsQ_w&expires=1603598709
+
+#EXTINF:-1 tvg-logo="",NICKELODEON
+https://espare.tk/live/nick_lat.m3u8?token=vlHLm_ECa9zDixYCjg-whQ&expires=1603598835
+
+#EXTINF:-1 tvg-logo="",DISNEY CHANNEL
+https://espare.tk/live/disney_channel_lat.m3u8?token=XT8hjaouyqmxrzhvBlF-QA&expires=1603599003
+
+#EXTINF:-1 tvg-logo="",CARTOON NETWORK
+https://espare.tk/live/cartoon_network_lat.m3u8?token=_Io1DV5-Tg9RZf_4J39lXA&expires=1603599107
 
 
 
