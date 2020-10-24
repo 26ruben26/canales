@@ -9,6 +9,9 @@ https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CocFryhex2uWbftOlKk7Jz7Pndw
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CHiwqgFKrGU/XW3IJ-f9ShI/AAAAAAAAAKg/DXel8tx_odYH7PRuQ9mX_4kMBRVreO1OgCLcBGAs/s1600/hbo-family.png",HBO FAMILY
 https://espare.tk/live/hbo_family_lat.m3u8?token=lUJGMqixhNDAUXFMhj-XDw&expires=1603589664
 
+#EXTINF:-1 tvg-logo="",HBO PLUS
+https://espare.tk/live/hbo_plus_lat.m3u8?token=H5jAz5LdiNCR6eyZFkIObw&expires=1603596720
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_W-FuHQ4G9w/XW3IJcHrPlI/AAAAAAAAAKc/iu8z98DH1JIhZ5-TFSbAWk2Rz85FBHuWQCLcBGAs/s1600/hbo-2.png",HBO 2
 https://espare.tk/live/hbo2_lat.m3u8?token=dVW852mnU4pVPiFobUobNQ&expires=1603589993
 
