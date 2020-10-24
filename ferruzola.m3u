@@ -12,3 +12,5 @@ https://espare.tk/live/hbo_family_lat.m3u8?token=lUJGMqixhNDAUXFMhj-XDw&expires=
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_W-FuHQ4G9w/XW3IJcHrPlI/AAAAAAAAAKc/iu8z98DH1JIhZ5-TFSbAWk2Rz85FBHuWQCLcBGAs/s1600/hbo-2.png",HBO 2
 https://espare.tk/live/hbo2_lat.m3u8?token=dVW852mnU4pVPiFobUobNQ&expires=1603589993
 
+#EXTINF:-1 tvg-logo="",FOX ACTION
+https://espare.tk/live/fox_action_lat-5612.ts
