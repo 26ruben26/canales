@@ -58,6 +58,11 @@ https://espare.tk/live/el_gourmet_lat.m3u8?token=Sx_JJ7ndkuoXZVL4ORZYkw&expires=
 #EXTINF:-1 tvg-logo="",WARNER CHANNEL
 https://espare.tk/live/warner_lat.m3u8?token=cM7GclekxP4DxzONLD8q9w&expires=1603597678
 
+#EXTINF:-1 tvg-logo="",FXM
+https://espare.tk/live/fxm_lat.m3u8?token=pRbjjYHuU3_2IUK9LhXo1g&expires=1603597776
+
+#EXTINF:-1 tvg-logo="",UNIVERSAL CHANNEL
+https://espare.tk/live/universal_lat.m3u8?token=_ls6u4Cy6NAZz1P8Srl5jQ&expires=1603597906
 
 
 
