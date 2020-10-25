@@ -88,6 +88,12 @@ https://espare.tk/live/disney_channel_lat.m3u8?token=XT8hjaouyqmxrzhvBlF-QA&expi
 #EXTINF:-1 tvg-logo="",CARTOON NETWORK
 https://espare.tk/live/cartoon_network_lat.m3u8?token=_Io1DV5-Tg9RZf_4J39lXA&expires=1603599107
 
+#EXTINF:-1 tvg-logo="",MTV
+https://espare.tk/live/mtv_lat.m3u8?token=Vqdqqgy-YBQsy9dSBZWqDQ&expires=1603606280
+
+#EXTINF:-1 tvg-logo="",HTV
+https://espare.tk/live/h_tv_lat.m3u8?token=qvz2K7SGM7jOxhN64_yUPg&expires=1603606787
+
 
 
 
